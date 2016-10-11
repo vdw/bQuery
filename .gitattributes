@@ -1,0 +1,4 @@
+demo/* linguist-vendored
+test/* linguist-vendored
+jquery.bquery.min.js linguist-vendored=false
+jquery.bquery.test.js linguist-vendored=false
